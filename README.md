@@ -1,6 +1,6 @@
 # Welcome to Math-Utility Repository
 
-### You will find in thí repo a Java project with the following 
+### You will find in this repo a Java project with the following 
 features included 
 
 *A demonstration of using static to create a custom-lib
