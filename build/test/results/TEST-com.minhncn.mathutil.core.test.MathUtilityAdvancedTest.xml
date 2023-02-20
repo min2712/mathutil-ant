@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-MJE4TPE" name="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" skipped="0" tests="6" time="0.057" timestamp="2023-02-16T07:44:18">
+<testsuite errors="0" failures="0" hostname="DESKTOP-MJE4TPE" name="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" skipped="0" tests="7" time="0.05" timestamp="2023-02-20T07:22:30">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
+    <property name="netbeans.autoupdate.country" value="US" />
     <property name="libs.jakartaee-web-api-8.0.src" value="" />
     <property name="libs.graaljs.maven-pom" value="" />
     <property name="ant.file.mathutil-ant-impl" value="C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\nbproject\build-impl.xml" />
@@ -21,6 +22,7 @@
     <property name="libs.eclipselinkmodelgen.src" value="" />
     <property name="jlink.additionalmodules" value="" />
     <property name="javadoc.notree" value="false" />
+    <property name="netbeans.autoupdate.version" value="1.23" />
     <property name="libs.javaee-web-api-6.0.classpath" value="C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee-web-api-6.0.jar" />
     <property name="javac.profile.cmd.line.arg" value="" />
     <property name="jdk.home" value="C:\Program Files\Java\jdk1.8.0_45" />
@@ -30,6 +32,7 @@
     <property name="do.archive+manifest.available" value="true" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="nb.show.statistics.ui" value="usageStatisticsEnabled" />
+    <property name="netbeans.autoupdate.variant" value="" />
     <property name="have.tests" value="true" />
     <property name="org.xml.sax.driver" value="com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser" />
     <property name="libs.hamcrest.classpath" value="C:\Program Files\NetBeans-12.3\netbeans\platform\modules\ext\hamcrest-core-1.3.jar" />
@@ -49,12 +52,12 @@
     <property name="libs.eclipselink.src" value="" />
     <property name="user.name" value="minh2" />
     <property name="libs.jsf12.javadoc" value="C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\javaee-doc-api.jar" />
-    <property name="tmp.manifest.file" value="C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\null1552120318" />
+    <property name="tmp.manifest.file" value="C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\null1843122150" />
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc5.0.javadoc" value="" />
     <property name="libs.spring-framework500.classpath" value="C:\Program Files\NetBeans-12.3\netbeans\platform\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-aop-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-aspects-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-beans-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-context-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-context-indexer-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-context-support-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-core-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-expression-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-instrument-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-jcl-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-jdbc-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-jms-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-messaging-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-orm-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-oxm-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-test-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-tx-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-web-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-webflux-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-webmvc-5.2.9.RELEASE.jar;C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-websocket-5.2.9.RELEASE.jar" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.minhncn.mathutil.core.test.MathUtilityAdvancedTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\test\results\TEST-com.minhncn.mathutil.core.test.MathUtilityAdvancedTest.xml crashfile=C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\junitvmwatcher3188209734755182656.properties propsfile=C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\junit1442938918147099386.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.minhncn.mathutil.core.test.MathUtilityAdvancedTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\test\results\TEST-com.minhncn.mathutil.core.test.MathUtilityAdvancedTest.xml crashfile=C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\junitvmwatcher4699270826911279518.properties propsfile=C:\Users\minh2\OneDrive\Desktop\FPTU\Sem5\SWT201\mathutil-ant\build\junit2421538094944653525.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="build.sysclasspath" value="ignore" />
     <property name="manifest.encoding" value="UTF-8" />
@@ -93,6 +96,7 @@
     <property name="libs.jaxws21.src" value="" />
     <property name="do.archive" value="true" />
     <property name="libs.spring-webmvc5.0.classpath" value="C:\Program Files\NetBeans-12.3\netbeans\java\modules\ext\spring-5\spring-webmvc-5.2.9.RELEASE.jar" />
+    <property name="netbeans.autoupdate.language" value="en" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="libs.javaee-api-6.0.javadoc" value="C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\javaee-doc-api.jar" />
     <property name="jar.index.metainf" value="false" />
@@ -246,6 +250,7 @@
     <property name="debug.test.modulepath" value="" />
     <property name="ant.project.name" value="mathutil-ant" />
     <property name="libs.spring-webmvc5.0.src" value="" />
+    <property name="netbeans.hash.code" value="unique=NB_EXTIDE_JAVA_WEBCOMMON_WEBEE079b8e8ae-12b3-439b-990a-9e20c774db6c_4d996cad-f415-403a-b31b-fb599d0e4e0a" />
     <property name="netbeans.default_userdir_root" value="C:\Users\minh2\AppData\Roaming\NetBeans" />
     <property name="libs.jsp-compilation-syscp.maven-pom" value="" />
     <property name="sun.cpu.isalist" value="amd64" />
@@ -284,7 +289,7 @@
     <property name="libs.javaee-endorsed-api-7.0.classpath" value="C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee7-endorsed\javax.annotation-api.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee7-endorsed\javax.xml.soap-api.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee7-endorsed\jaxb-api-osgi.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee7-endorsed\jaxws-api.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\modules\ext\javaee7-endorsed\jsr181-api.jar" />
     <property name="libs.metro.javadoc" value="C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\webservices-api-javadoc.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\webservices-extra-javadoc.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\webservices-extra-api-javadoc.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\webservices-rt-javadoc.jar;C:\Program Files\NetBeans-12.3\netbeans\enterprise\docs\webservices-tools-javadoc.jar" />
     <property name="libs.struts.maven-pom" value="" />
-    <property name="jnidispatch.path" value="C:\Users\minh2\AppData\Local\Temp\jna-103900828\jna5525835376857267804.dll" />
+    <property name="jnidispatch.path" value="C:\Users\minh2\AppData\Local\Temp\jna-103900828\jna548424833443824054.dll" />
     <property name="netbeans.home+have.tests" value="true" />
     <property name="annotation.processing.processor.options" value="" />
     <property name="libs.testng.maven-pom" value="" />
@@ -408,10 +413,11 @@
   </properties>
   <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[0]" time="0.003" />
   <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[1]" time="0.0" />
-  <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[2]" time="0.0" />
+  <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[2]" time="0.001" />
   <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[3]" time="0.0" />
   <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[4]" time="0.0" />
   <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[5]" time="0.0" />
+  <testcase classname="com.minhncn.mathutil.core.test.MathUtilityAdvancedTest" name="testFactorialGivenRightArgumentReturnsWell[6]" time="0.001" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
